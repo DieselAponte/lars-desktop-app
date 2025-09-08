@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj": {}
+    "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj": {}
   },
   "projects": {
-    "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj": {
+    "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
+        "projectUniqueName": "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
         "projectName": "LARS-Project",
-        "projectPath": "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
+        "projectPath": "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
         "packagesPath": "/home/verissimus/.nuget/packages/",
-        "outputPath": "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/obj/",
+        "outputPath": "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/verissimus/.nuget/NuGet/NuGet.Config"

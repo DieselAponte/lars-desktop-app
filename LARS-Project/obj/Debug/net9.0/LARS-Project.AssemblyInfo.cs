@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LARS-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f2917266bb778862b32cd16e8077dbae4c7297")]
 [assembly: System.Reflection.AssemblyProductAttribute("LARS-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LARS-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

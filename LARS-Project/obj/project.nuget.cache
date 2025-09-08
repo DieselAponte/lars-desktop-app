@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQlAM9QjKoU=",
+  "dgSpecHash": "sVUM4K451xM=",
   "success": true,
-  "projectFilePath": "/home/verissimus/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
+  "projectFilePath": "/home/verissimus/dev/RiderProjects/LARS-Project/LARS-Project/LARS-Project.csproj",
   "expectedPackageFiles": [
     "/home/verissimus/.nuget/packages/avalonia/11.3.4/avalonia.11.3.4.nupkg.sha512",
     "/home/verissimus/.nuget/packages/avalonia.angle.windows.natives/2.1.25547.20250602/avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",
